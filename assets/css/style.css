@@ -1,0 +1,21 @@
+
+  .main-header .navbar-brand>img {
+    
+    height: 100%;
+}
+
+ .main-header .navbar-brand {
+   
+    padding: 5px;
+    
+}
+
+.main-header .navbar-nav>li>a {
+    color: #fff;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+.main-header .navbar-nav>li>a:focus, .main-header .navbar-nav>li>a:hover {
+   
+    background-color: orange;
+}
